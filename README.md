@@ -1,7 +1,7 @@
 # Kotlin ClassCastException
 
 ## How to inspect
-- run the app, hit the endpoint
+- run the app, hit the [endpoint](http://localhost:8080/q/swagger-ui/#/Rating%20Controller/post_rating)
 - run the test (it assumes that the response will be 500)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
