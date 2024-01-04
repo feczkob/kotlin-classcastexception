@@ -1,5 +1,9 @@
 # Kotlin ClassCastException
 
+A simple project to demonstrate a ClassCastException for unknown reasons.
+
+:question: What is the explanation for this behaviour?
+
 ## How to inspect
 - run the app, hit the [endpoint](http://localhost:8080/q/swagger-ui/#/Rating%20Controller/post_rating)
 - run the test (it assumes that the response will be 500)
